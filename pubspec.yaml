@@ -37,7 +37,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -75,7 +74,6 @@ flutter:
     - assets/page-1/images/drone-1-2.png
     - assets/page-1/images/delivery-truck-1-1.png
     - assets/page-1/images/vector-bBw.png
-    - assets/page-1/images/vector-215.png
     - assets/page-1/images/home.png
     - assets/page-1/images/vector-AFj.png
     - assets/page-1/images/vector-hvR.png
@@ -86,11 +84,9 @@ flutter:
     - assets/page-1/images/vector-PXw.png
     - assets/page-1/images/image-6.png
     - assets/page-1/images/vector-TnZ.png
-    - assets/page-1/images/drone-1-1.png
     - assets/page-1/images/vector-w61.png
     - assets/page-1/images/vector-sbF.png
     - assets/page-1/images/line-arrow-right-mdT.png
-    - assets/page-1/images/image-6-7Qu.png
     - assets/page-1/images/line-arrow-right.png
     - assets/page-1/images/funnel.png
     - assets/page-1/images/group-1686552911.png
@@ -103,12 +99,8 @@ flutter:
     - assets/page-1/images/rectangle-9997-bg-ZdB.png
     - assets/page-1/images/farmer.png
     - assets/page-1/images/vector-zyX.png
-    - assets/page-1/images/image-6-XAH.png
     - assets/page-1/images/image-107.png
     - assets/page-1/images/removebg-preview-1.png
-    - assets/page-1/images/removebg-preview-1-3dB.png
-    - assets/page-1/images/removebg-preview-1-6NV.png
-    - assets/page-1/images/removebg-preview-1-3ER.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
